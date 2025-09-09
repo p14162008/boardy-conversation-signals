@@ -1,0 +1,185 @@
+{
+  "timestamp": "2025-09-09T16:46:12.091724",
+  "total_conversations": 20,
+  "correct_predictions": 14,
+  "precision": 0.7,
+  "total_signals": 19,
+  "conversations": [
+    {
+      "id": "1fea9e99-3af2-43ea-8884-6f3f60a24ae8",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "f942e6af-b641-490f-83f6-1887930b825e",
+      "expected_signals": false,
+      "detected_signals": 0,
+      "signal_types": [],
+      "correct": true
+    },
+    {
+      "id": "cc3cc103-bdb2-4f1f-a502-d8ce4580a8e4",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "536327be-0de5-4ff5-917d-a99a8b2818fb",
+      "expected_signals": false,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": false
+    },
+    {
+      "id": "3e08348a-15ec-4785-81e9-7aa405b12e33",
+      "expected_signals": true,
+      "detected_signals": 0,
+      "signal_types": [],
+      "correct": false
+    },
+    {
+      "id": "68a8f45f-aac3-4e2a-997c-a61fbd6445eb",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "9514f79b-f779-408f-8568-340bdd6f1f1e",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "sentiment_shift"
+      ],
+      "correct": true
+    },
+    {
+      "id": "fc628b58-c0b9-46b3-ad52-454e57cc90e6",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "f145a60b-93a2-43f8-bd42-b39b75ef7e42",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "2e1954c2-8f92-4b2f-a16c-49126f1332ff",
+      "expected_signals": false,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": false
+    },
+    {
+      "id": "dd4f6625-b5d4-4595-99c3-5a9199a73622",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "b116f09d-b652-4f0a-be0b-a855b61b41a6",
+      "expected_signals": false,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": false
+    },
+    {
+      "id": "49b4f14f-5d35-4f95-8e98-7cc80a000b8f",
+      "expected_signals": true,
+      "detected_signals": 2,
+      "signal_types": [
+        "sentiment_shift",
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "e2644948-e84c-4f32-8967-1b4da9d969e8",
+      "expected_signals": false,
+      "detected_signals": 2,
+      "signal_types": [
+        "sentiment_shift",
+        "question_asking"
+      ],
+      "correct": false
+    },
+    {
+      "id": "3491bf68-ea2a-48f7-b8ac-53654756d3a8",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "f7a9fd3b-c5eb-4a7e-89ff-15ee1e2f3adb",
+      "expected_signals": false,
+      "detected_signals": 0,
+      "signal_types": [],
+      "correct": true
+    },
+    {
+      "id": "1b7e3028-9a5f-4d08-a9e7-995091bbebcc",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "24432a04-b415-4f97-9512-69b5e9f71daf",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": true
+    },
+    {
+      "id": "2ac7db45-6a75-4bc8-8fb1-8cd51ed37d20",
+      "expected_signals": false,
+      "detected_signals": 1,
+      "signal_types": [
+        "question_asking"
+      ],
+      "correct": false
+    },
+    {
+      "id": "23077c24-1cd4-4776-87ca-1d631c1a5313",
+      "expected_signals": true,
+      "detected_signals": 1,
+      "signal_types": [
+        "sentiment_shift"
+      ],
+      "correct": true
+    }
+  ]
+}
